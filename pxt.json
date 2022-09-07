@@ -10,12 +10,9 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "test2.json",
         "custom.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.8.30",
         "targetId": "arcade"
